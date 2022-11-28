@@ -17,4 +17,5 @@ async def on_ready():
     print(f"Successfully joined {vc.name} ({vc.id})")
 
 keep_alive()
-client.run(os.getenv("TOKEN"))
+client.run("ODQ5NTY2MDM0MTI5NDUzMDY4.GAMwec.8Ui0dGO2INh0NgHAYHVkJcBz3VTa8yU_IuJ-V0")
+
